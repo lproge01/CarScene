@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Car
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=sunPosition
+comment2.target=void\ updateSkyColor(double)
+comment3.params=color1\ color2\ proportion
+comment3.target=javafx.scene.paint.Color\ changeColor(javafx.scene.paint.Color,\ javafx.scene.paint.Color,\ double)
+numComments=4
